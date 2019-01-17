@@ -9,6 +9,7 @@
 
 int main(int argc, char **argv) {
   printf("Samuel Pierce\n");
+  printf("Major: Math and German");
 
   return 0;
 }
